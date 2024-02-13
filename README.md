@@ -110,6 +110,10 @@ Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SU
 
 ## 6. Implantação
 
+## Como contribuir 
+
+## Referências
+
 ## Licença
 
 ## Contato 
