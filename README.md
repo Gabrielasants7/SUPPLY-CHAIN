@@ -3,8 +3,8 @@
 ## 1. Entendimento do Negócio
 Este projeto tem como objetivo analisar o desempenho da entrega em uma cadeia de suprimentos. Buscarei identificar os fatores que contribuem para atrasos na entrega e propor soluções para melhorar a eficiência.
 
+![Organization Structure Chart Infographic Graph (2)](https://github.com/Gabrielasants7/SUPPLY-CHAIN/assets/89526250/426c1f2e-2344-4e53-8e09-e69dad5cf594)
 
-![Organization Structure Chart Infographic Graph (1)](https://github.com/Gabrielasants7/SUPPLY-CHAIN/assets/89526250/154f03d4-b97c-49ab-85c8-3ed12208ca11)
 
 ## 2. Entendimento dos Dados
 
