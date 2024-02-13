@@ -3,6 +3,9 @@
 ## 1. Entendimento do Negócio
 Este projeto tem como objetivo analisar o desempenho da entrega em uma cadeia de suprimentos. Buscarei identificar os fatores que contribuem para atrasos na entrega e propor soluções para melhorar a eficiência.
 
+![Organization Structure Chart Infographic Graph](https://github.com/Gabrielasants7/SUPPLY-CHAIN/assets/89526250/2a3103cd-4dea-4573-b674-1e19f68a3e49)
+
+
 ## 2. Entendimento dos Dados
 
 ◾ Este projeto utiliza um conjunto de dados de cadeias de suprimentos usadas pela empresa DataCo Global para análise. As áreas de atividades registradas importantes incluem: abastecimento, produção, vendas e distribuição comercial. Também permite a correlação de dados estruturados com dados não estruturados para geração de conhecimento.
