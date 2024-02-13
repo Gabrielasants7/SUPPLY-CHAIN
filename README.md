@@ -1,44 +1,56 @@
 # Projeto de Supply Chain de Ponta a ponta 
 
-## Sobre o Projeto 
-Este projeto tem como objetivo analisar o desempenho da entrega em uma cadeia de suprimentos. Utilizarei  um conjunto de dados que inclui variáveis como 'Days for shipping (real)', 'Days for shipment (scheduled)', 'Delivery Status', e 'Late_delivery_risk'.  Abaixo comentarei mais sobre esses dados .
-Através desta análise, buscarei identificar os fatores que contribuem para atrasos na entrega e propor soluções para melhorar a eficiência.
+## 1. Entendimento do Negócio
+Este projeto tem como objetivo analisar o desempenho da entrega em uma cadeia de suprimentos. Buscarei identificar os fatores que contribuem para atrasos na entrega e propor soluções para melhorar a eficiência.
 
-##  Sobre o Conjunto de Dados
+## 2. Entendimento dos Dados
 
-Este projeto utiliza um conjunto de dados de cadeias de suprimentos usadas pela empresa DataCo Global para análise. As áreas de atividades registradas importantes incluem: abastecimento, produção, vendas e distribuição comercial. Também permite a correlação de dados estruturados com dados não estruturados para geração de conhecimento.
+◾ Este projeto utiliza um conjunto de dados de cadeias de suprimentos usadas pela empresa DataCo Global para análise. As áreas de atividades registradas importantes incluem: abastecimento, produção, vendas e distribuição comercial. Também permite a correlação de dados estruturados com dados não estruturados para geração de conhecimento.
 
 Os tipos de produtos incluídos são: roupas, esportes e suprimentos eletrônicos.
 
 Além disso, está anexado em outro arquivo chamado DescriptionDataCoSupplyChain.csv, a descrição de cada uma das variáveis do DataCoSupplyChainDatasetc.csv.
 
-## Onde encontrar os  Dados
+◾  Onde encontrar os  Dados ?
 - DataCoSupplyChainDataset.csv (91.5 MB) (https://data.mendeley.com/datasets/8gx2fvg2k6/1)
 - DescriptionDataCoSupplyChain.csv (3.36 KB)
 
-## Instituições
+◾ Instituições
 - Universidad Central del Ecuador 
 - Instituto Politecnico de Leiria Centro de Investigacao em Informatica e Comunicacoes
 
-## Categorias
+ ◾ Categorias
 - Data Mining
 - Supply Chain Management
 - Machine Learning
 - Big Data Analytics
 
-## Licença
+◾ Licença
 CC BY 4.0
 
-## Métricas do Conjunto de Dados
+◾ Métricas do Conjunto de Dados
 - Visualizações: 25614
 - Downloads: 4767
 
-## Versões
+◾ Versões
 - Versão 5: 11 de Março de 2019
 - Versão 4: 11 de Março de 2019
 - Versão 3: 11 de Março de 2019
 - Versão 2: 11 de Março de 2019
 - Versão 1: 12 de Março de 2019
 
-## Citação
+◾ Citação
 Constante, Fabian; Silva, Fernando; Pereira, António (2019), “DataCo SMART SUPPLY CHAIN FOR BIG DATA ANALYSIS”, Mendeley Data, V1, doi: 10.17632/8gx2fvg2k6.1
+
+
+## 3. Preparação dos Dados
+
+## 4. Modelagem
+
+## 5. Avaliação
+
+## 6. Implantação
+
+## Licença
+
+## Contato 
